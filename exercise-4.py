@@ -13,5 +13,4 @@ def chunking_by(numbers, chunck):
 
     return chunked_list
 
-# Example Test
 print(chunking_by([5, 4, 7, 3, 4, 5, 4], 3))
